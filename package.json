@@ -2,10 +2,10 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "Files/index.js",
+  "main": "files/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-      "compile": "watchify Files/index.js -o Files/dist.js -v"
+      "compile": "watchify files/index.js -o files/dist.js -v"
   },
   "author": "",
   "license": "ISC",
