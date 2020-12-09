@@ -1,5 +1,5 @@
 /* 
-    Utility functions for testing point containment and side/triangle intersections 
+    Utility functions for testing point containment and sides/triangles intersections 
 	Code is contrubuted from rkaneriya
 */ 
 
