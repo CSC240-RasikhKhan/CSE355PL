@@ -2,7 +2,7 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "js/index.js",
+  "main": "Files/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
       "compile": "watchify Files/index.js -o Files/dist.js -v"
