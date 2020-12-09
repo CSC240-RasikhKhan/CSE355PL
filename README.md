@@ -1,7 +1,7 @@
-#Point Location using Kirkpatrick's method. 
+# Point Location using Kirkpatrick's method. 
 An interactive implementation of Kirkpatrick's point location algorithm for CSE(355) (Computational Geometry).  
 
-##Instructions
+## Instructions
 
 1) Click within the bounding triangle to create a simple polygon. Than select "Close the Polygon" when finished. 
 
@@ -19,6 +19,6 @@ An interactive implementation of Kirkpatrick's point location algorithm for CSE(
 
 8) Select "Locate Another Point in the Polygon" after scuessful finding the query point.
 
-##Implementation
+## Implementation
 
 O(n) space complexity and O(n^2) time complexity for pre-processing the planar graph. O(log n) for point location queries. 
