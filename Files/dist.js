@@ -27,7 +27,7 @@ module.exports = DAG;
 },{"underscore":6}],2:[function(require,module,exports){
 /* 
     SVG drawing and GUI control methods
-Code is contrubuted from rkaneriya
+    Code is contrubuted from rkaneriya
 */
 
 var _ = require('underscore'); 
